@@ -1,0 +1,19 @@
+modelo,max_features,ngram_range,accuracy,f1_macro
+Naive Bayes,20000,"(1, 1)",0.8981,0.8977
+Naive Bayes,20000,"(1, 2)",0.8962,0.8958
+Naive Bayes,5000,"(1, 2)",0.8956,0.895
+Linear SVC,20000,"(1, 2)",0.895,0.8945
+Naive Bayes,5000,"(1, 1)",0.895,0.8944
+Logistic Regression,20000,"(1, 2)",0.8938,0.8934
+Linear SVC,20000,"(1, 1)",0.8931,0.8928
+Logistic Regression,20000,"(1, 1)",0.8906,0.8902
+Logistic Regression,5000,"(1, 1)",0.8875,0.887
+Linear SVC,5000,"(1, 1)",0.8862,0.8859
+Logistic Regression,5000,"(1, 2)",0.8862,0.8858
+Linear SVC,5000,"(1, 2)",0.8825,0.8819
+Logistic Regression,1000,"(1, 2)",0.8631,0.8625
+Naive Bayes,1000,"(1, 2)",0.8612,0.8603
+Naive Bayes,1000,"(1, 1)",0.8612,0.8602
+Logistic Regression,1000,"(1, 1)",0.8606,0.8599
+Linear SVC,1000,"(1, 1)",0.86,0.8594
+Linear SVC,1000,"(1, 2)",0.8562,0.8555
